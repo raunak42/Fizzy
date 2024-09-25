@@ -15,7 +15,7 @@ module.exports = {
       animation: {
         "slide-left": "slide-left 3s linear infinite",
         "spin-slow": "spin 6s linear infinite",
-      },
+      },  
     },
   },
   plugins: ["prettier-plugin-tailwindcss"],

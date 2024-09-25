@@ -1,10 +1,12 @@
 import React from "react";
-import { FizzyLogo } from "./FizzyLogo";
+import { FizziLogo } from "./FizzyLogo";
 
 type Props = {};
 
 export default function Header({}: Props) {
-  return <header className="-mb-28 flex justify-center py-4">
-    <FizzyLogo/>
-  </header>;
+  return (
+    <header className="-mb-28 flex justify-center py-4">
+      <FizziLogo className="z-10 h-20 cursor-pointer text-sky-800"/>
+    </header>
+  );
 }

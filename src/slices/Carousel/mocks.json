@@ -1,0 +1,31 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"heading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading2",
+						"content": {
+							"text": "Taken"
+						}
+					}
+				]
+			},
+			"price_copy": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Fugiat tempor reprehenderit eu aliqua ullamco sint incididunt velit ipsum minim exercitation aliquip. Mollit Lorem et cupidatat labore ad ut tempor ullamco. Ad dolore amet adipisicing consectetur qui."
+						}
+					}
+				]
+			}
+		},
+		"items": []
+	}
+]
